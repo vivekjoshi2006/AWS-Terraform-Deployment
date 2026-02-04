@@ -11,3 +11,7 @@ Provisioned an AWS EC2 instance using Terraform.
 
 ## Challenges Resolved
 Managed environment constraints by utilizing a sandbox terminal and verified the code syntax and resource mapping despite credential limitations.
+
+## Proof of Work
+![Init Output](Terraform init.jpg)
+![Plan Output](Terraform plan.jpg)
