@@ -20,4 +20,4 @@ Managed environment constraints by utilizing a sandbox terminal and verified the
 ### 2. Execution Plan
 ![Plan Output](Terraform plan.jpg)
 
-**Note:** The configurations were validated through `terraform plan`. The subsequent `apply` step used mock credentials for security purposes as per the **AWS Academy** sandbox environment standards.****
+**Note:** The configurations were validated through `terraform plan`. The subsequent `apply` step used mock credentials for security purposes as per the **AWS Academy** sandbox environment standards.
